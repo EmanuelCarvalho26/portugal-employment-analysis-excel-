@@ -26,10 +26,6 @@ The dataset was sourced from PORDATA and contains employment data by economic ac
 - What was the year-over-year employment growth?
 - Which sectors show the highest concentration of employment?
 
-## Dashboard Preview
-
-![Dashboard Preview](images/dashboard-preview.png)
-
 ## Key Insights
 
 - Service-related sectors represent a major share of employment in Portugal.
