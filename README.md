@@ -1,10 +1,10 @@
-# Portugal Employment Analysis - Excel Dashboard
+# Portugal Employment Analysis (Excel Dashboard)
 
 ## Project Overview
 
-This project analyzes employment trends in Portugal by economic sector between 2008 and 2025, using public data from PORDATA.
+This project analyzes employment trends in Portugal between 2008 and 2025 using public data from PORDATA.
 
-The goal was to understand how employment evolved, identify the leading sectors, and analyze year-over-year growth trends.
+The objective was to identify employment trends across economic sectors, year-over-year growth patterns, and sector concentration.
 
 ## Tools Used
 
@@ -13,37 +13,21 @@ The goal was to understand how employment evolved, identify the leading sectors,
 - Dashboard Design
 - Data Cleaning
 - KPI Analysis
-- Conditional Formatting
-
-## Dataset
-
-The dataset was sourced from PORDATA and contains employment data by economic activity sector in Portugal.
-
-## Key Questions
-
-- Which sector has the highest employment?
-- How has employment evolved between 2008 and 2025?
-- What was the year-over-year employment growth?
-- Which sectors show the highest concentration of employment?
 
 ## Key Insights
 
-- Service-related sectors represent a major share of employment in Portugal.
-- Employment shows a recovery trend after 2020.
-- Some sectors show significant volatility across the analyzed period.
-- Year-over-year growth highlights both periods of decline and recovery.
+- Service-related sectors dominate employment in Portugal.
+- Employment shows recovery trends after 2020.
+- Some sectors show significant volatility over time.
+
+## Dashboard Preview
+
+![Dashboard](Images/Dashboardpreview.png)
 
 ## Skills Demonstrated
 
-- Data cleaning and structuring
-- Pivot table analysis
-- KPI creation
-- Dashboard design
-- Year-over-year growth analysis
-- Business insight generation
-
-## Files
-
-- `data/` - original dataset
-- `dashboard/` - final Excel dashboard
-- `images/` - dashboard screenshots
+- Data Cleaning
+- KPI Development
+- Dashboard Design
+- Trend Analysis
+- Business Insights
