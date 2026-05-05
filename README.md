@@ -22,7 +22,7 @@ The objective was to identify employment trends across economic sectors, year-ov
 
 ## Dashboard Preview
 
-![Dashboard](Images/Dashboardpreview.png)
+![Dashboard](Images/DashboardPreview.jpg)
 
 ## Skills Demonstrated
 
